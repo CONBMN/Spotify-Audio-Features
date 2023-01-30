@@ -1,5 +1,5 @@
 # Spotify-Audio-Features
-Solo project carried out during the first week of the master's in the course "Data Curation". The work was completed in October 2021. 
+Solo project assignment carried out during the first week of the master's in the course "Data Curation". The work was completed in October 2021. 
 
 A very basic analysis of audio features extracting the data from Spotify's public API. 
 
